@@ -1,6 +1,3 @@
-## Introduction:
-----
-
 ### Hi there, I'm [Lalit Patil ](https://lalit-patil005.github.io/) 👋
 
 I am a software developer with more than 10 years of experience in full stack web development and back-end engineering. I have a deep understanding of object-oriented programming, databases, and web infrastructure.
