@@ -21,7 +21,7 @@ I'm an avid learner and I have passion to learn and explore new programming lang
 - Devops pipeline
 
 ## Skills:
-----
+
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -84,7 +84,7 @@ I'm an avid learner and I have passion to learn and explore new programming lang
 
 
 ## Connect with me:
-----
+
 <p align = "center">
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://lalit-patil005.github.io)
